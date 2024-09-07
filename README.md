@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Aspiring Software Developer <br>🌱 I’m currently learning MERN Stack 
+🔭 Aspiring Software Developer <br>🌱 I’m currently working on MERN Stack <br>👯 Looking to collaborate on Dev Projects <br>🤝 I’m looking for Internships or Full Time Opportunities
 
 
 # 💻 Tech Stack:

@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a versatile developer having worked with a lot of different technologies.
 
 # 💫 About Me:
 🔭 Aspiring Software Developer <br>🌱 I’m currently working on MERN Stack <br>👯 Looking to collaborate on Dev Projects <br>🤝 I’m looking for Internships or Full Time Opportunities
